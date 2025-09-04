@@ -24,7 +24,7 @@ We simulate a small 3x2 grid village (6 cells total) with the following public f
 
 - Python 🐍
 - Qiskit by IBM
-- Matplotlib (optional, for visualization)
+- Matplotlib (optional)
 
 ## 🚀 How to Run
 
